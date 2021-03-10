@@ -1,0 +1,10 @@
+ipython
+keras
+tensorflow
+scikit-learn
+numpy
+pytest
+pytest-cov
+black
+pylint
+ipykernel
